@@ -1,0 +1,1 @@
+# macosx-nosleep-extension
